@@ -1,6 +1,7 @@
 #! /bin/bash
 # test
 #test2
+#test3
 python3 -m venv venv
 . ./venv/bin/activate
 python3 -m pip install -r requirements.txt
